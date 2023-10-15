@@ -29,39 +29,15 @@
   [
     {
       "id":1,
-      "title":"Nature",
-      "image":"file:///android_asset/more/more1.png",
-      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      "title":"Eggy Party",
+      "image":"https://play-lh.googleusercontent.com/Q2V9s88u44vUVfw8wZkNv2EqEw-2PuCvCLyx-nFZ7NaBEXuvO-QLfQSDyEAo45mJKA0=w240-h480",
+      "link":"https://play.google.com/store/apps/details?id=com.netease.partyglobal"
     },
     {
       "id":2,
-      "title":"Beach",
-      "image":"file:///android_asset/more/more2.png",
-      "link":"https://aliendro.id/alien-3d-skins-panorama-mcpe-114"
-    },
-    {
-      "id":3,
-      "title":"Animals",
-      "image":"file:///android_asset/more/more3.png",
-      "link":"https://aliendro.id/alien-fake-vv-call-v12-4"
-    },
-    {
-      "id":4,
-      "title":"Super Car",
-      "image":"file:///android_asset/more/more4.png",
-      "link":"https://aliendro.id/alien-theme-keyboard-online-offline-104"
-    },
-    {
-      "id":5,
-      "title":"Space",
-      "image":"file:///android_asset/more/more5.png",
-      "link":"https://aliendro.id/"
-    },
-    {
-      "id":6,
-      "title":"Love Bird",
-      "image":"file:///android_asset/more/more6.png",
-      "link":"https://aliendro.id/"
+      "title":"Gacha Life 2",
+      "image":"https://play-lh.googleusercontent.com/wW_bGOO7sq6b5wBYeU2CJt9wjtFdjgr5HgjfvtDrNgdBn1pDIGXra67VBeuQCbjcgjU=w240-h480",
+      "link":"https://play.google.com/store/apps/details?id=air.com.lunime.gachalife2"
     }
 
   ],
